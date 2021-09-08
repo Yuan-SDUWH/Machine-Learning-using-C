@@ -1,5 +1,5 @@
 # Machine-Learning-using-C
-Every folder contains a classic dataset in the csv format and a main.c file, which can be directly run to train and test the corresponding maching learning model using the dataset.
+Every folder contains a classic dataset and a main.c file, which can be directly run to train and test the corresponding maching learning model using the dataset.
 
 
 ## Evaluation of the models in C
